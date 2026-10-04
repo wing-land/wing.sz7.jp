@@ -91,13 +91,13 @@
         </a>
         <a
           class="social-link"
-          href="https://github.com/kwing0310"
+          href="https://github.com/wing-land"
         >
           <Icon
             class="social-link-icon"
             name="mdi:github"
           />
-          <span>@kwing0310</span>
+          <span>@wing-land</span>
         </a>
       </div>
     </section>
